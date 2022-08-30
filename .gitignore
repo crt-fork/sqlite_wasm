@@ -1,0 +1,8 @@
+*.wasm
+*.wat
+*.js
+*.d.ts
+*.so
+*.dylib
+*.dll
+.DS_Store
